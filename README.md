@@ -2,9 +2,9 @@
 
 ## Discription
 
-this is my 11cd h   th assignment and it was creating a Note taker in HTML, CSS, Javascript(front end & back end)and node language
+this is my 11th   th assignment and it was creating a Note taker in HTML, CSS, Javascript(front end & back end)and node language
 
-in this 10th assignment  i started with a given code 
+in this 11th assignment  i started with a given code 
 
 -my motivation was to practice what i learned in the bootcamp untill April 7 2023
 
